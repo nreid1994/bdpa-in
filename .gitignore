@@ -13,6 +13,7 @@
 
 # Secrets
 .env
+/src/backend/contrib/constants.php
 
 # misc
 .DS_Store
